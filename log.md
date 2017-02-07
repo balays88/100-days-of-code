@@ -14,4 +14,8 @@ Currently startting the 'Trigger Click Events with jQuery' course (JSON APIS and
 
 **Link to work:** I am working on this task: https://www.freecodecamp.com/challenges/wherefore-art-thou
 
+### Day 2: February 07, 2017  (12:25)
 
+**Today's Progress**: Right now I am the counter 264, so I made 2 task tonight. They not so easy :)
+
+**Link to work:** I am working on this task: https://www.freecodecamp.com/challenges/missing-letters
